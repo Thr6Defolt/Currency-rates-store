@@ -1,0 +1,62 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\Currency rates store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\Currency rates store.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\Currency rates store.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\Currency rates store.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\Currency rates store.csproj.AssemblyReference.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Currency rates store.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Currency rates store.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Currency rates store.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Currency rates store.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Currency rates store.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\Currency rates store.csproj.CopyComplete
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\Currency rates store.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\refint\Currency rates store.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\Currency rates store.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\Currency rates store.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Currency rates store\Currency rates store\obj\Debug\net6.0\ref\Currency rates store.dll
